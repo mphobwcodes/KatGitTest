@@ -1,0 +1,2 @@
+# KatGitTest
+Automated testing
